@@ -3,7 +3,7 @@
 
 	public class Locale
 	{
-		//more locales can be added
+		//more locales can be added here
 		public static const EL:Locale = new Locale("el", "Ελληνικά", "Greek"); 
 		public static const EN:Locale = new Locale("en", "English", "English");
 		public static const ES:Locale = new Locale("es", "Español", "Spanish");
