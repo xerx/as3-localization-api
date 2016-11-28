@@ -12,7 +12,7 @@ package
 		private var el:String;
 		private var en:String;
 		
-		//Our example app is going to be using only two locales, el and en
+		//Our example app will be using only two locales, el and en
 		public function Strings(el:String, en:String)
 		{
 			this.el = el;
