@@ -1,2 +1,2 @@
 # as3-localization-api
-Simple localization api without loading external resources
+Simple localization api with the use of one class and without loading external resources (json, xml)
