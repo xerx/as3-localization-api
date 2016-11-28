@@ -4,7 +4,7 @@
 	public class LocaleManager
 	{
 		private static var localizables:Vector.<ILocalizable> = new <ILocalizable>[];
-		private static var locale:Locale;
+		private static var locale:Locale = Locale.EN;
 		
 		public static function register(localizable:ILocalizable):void
 		{
